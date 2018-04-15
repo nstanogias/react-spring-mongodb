@@ -1,0 +1,4 @@
+Application.class
+react/controllers/BookController.class
+react/model/Book.class
+react/repositories/BookRepository.class
